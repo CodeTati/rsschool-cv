@@ -27,7 +27,6 @@
 <li> fast learning </li>  
 <li> communication skills </li>
   </ul>
-  
   <hr />
   
   <h3 id="code-example"><strong>Code Example</strong></h3>
@@ -38,9 +37,9 @@
       function multiply(a, b){
         c = a * b;
         return c;
-      }
-      </code> 
-    </pre> 
+       }
+  </code> 
+  </pre> 
   </div>
  </div>
     
